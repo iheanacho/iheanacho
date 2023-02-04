@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iheanacho
-- 👀 I’m interested in software development and product management
-- 🌱 I’m currently learning software engineering
+- 👀 I’m interested in Data engineering and product management
+- 🌱 I’m currently working fashion analytics pipelines
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... iheanachochigozirim@gmail.com
 
